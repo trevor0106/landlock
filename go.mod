@@ -6,7 +6,7 @@ toolchain go1.24.1
 require (
 	github.com/hashicorp/go-set/v2 v2.1.0
 	github.com/shoenig/test v1.11.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.32.0
 	kernel.org/pub/linux/libs/security/libcap/psx v1.2.71
 )
 
